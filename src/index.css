@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    box-sizing: inherit;
+    background-color: #0E111A;
+    color:lightgrey;
+    font-family: Roboto;
+    padding:40px;
+  }
+
+  .container {
+    display: flex;
+    height:230vh;
+    border-bottom: 0.01px solid rgba(255,255,255,0.1);
+  }
+
+  
