@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cinemeye/static/css/main.09c247a1.chunk.css",
+    "main.js": "/Cinemeye/static/js/main.72ad1c0e.chunk.js",
+    "main.js.map": "/Cinemeye/static/js/main.72ad1c0e.chunk.js.map",
+    "runtime-main.js": "/Cinemeye/static/js/runtime-main.11327a36.js",
+    "runtime-main.js.map": "/Cinemeye/static/js/runtime-main.11327a36.js.map",
+    "static/js/2.53fb44cb.chunk.js": "/Cinemeye/static/js/2.53fb44cb.chunk.js",
+    "static/js/2.53fb44cb.chunk.js.map": "/Cinemeye/static/js/2.53fb44cb.chunk.js.map",
+    "index.html": "/Cinemeye/index.html",
+    "static/css/main.09c247a1.chunk.css.map": "/Cinemeye/static/css/main.09c247a1.chunk.css.map",
+    "static/js/2.53fb44cb.chunk.js.LICENSE.txt": "/Cinemeye/static/js/2.53fb44cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11327a36.js",
+    "static/js/2.53fb44cb.chunk.js",
+    "static/css/main.09c247a1.chunk.css",
+    "static/js/main.72ad1c0e.chunk.js"
+  ]
+}
